@@ -8,7 +8,7 @@ I've been learning React.js
 
 I've been learning Java
 
-I've been learning SQL
+I've been learning TypeScript
 
 * 🌍  I'm based in Chiang Mai
 * ✉️  You can contact me at [maxma4056@gmail.com](mailto:maxma4056@gmail.com)
