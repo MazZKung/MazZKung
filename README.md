@@ -4,11 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Student
 -------
 
-I've been learning React.js
-
-I've been learning Java
-
-I've been learning TypeScript
+I am interested in an internship for the position of Software Tester and Business Analyst.
 
 * 🌍  I'm based in Chiang Mai
 * ✉️  You can contact me at [maxma4056@gmail.com](mailto:maxma4056@gmail.com)
