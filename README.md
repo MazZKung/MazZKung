@@ -7,7 +7,7 @@ Student
 I am interested in an internship for the position of Software Tester and Business Analyst.
 
 * 🌍  I'm based in Chiang Mai
-* ✉️  You can contact me at [maxma4056@gmail.com](mailto:maxma4056@gmail.com)
+* ✉️  You can contact me at
 yodsark05@gmail.com
 
 ### Skills
