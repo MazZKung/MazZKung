@@ -13,7 +13,8 @@ yodsark05@gmail.com
 ### Skills
 
 <p align="left">
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=anaconda,figma,html,css,c,discord,docker,github,gitlab,git,instagram,java,javascript,jenkins,mysql,linkedin,nodejs,npm,nuxtjs,opencv,react,postman,powershell,python,sqlite,selenium,supabase,tailwindcss,twitter,typescript,ubuntu,unity,vscode,vite,vuejs,windows&theme=dark&perline=15" alt="My Skills" /></a>
+<img src="https://skillicons.dev/icons?i=selenium,postman,opencv&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,js,ts,python,c&theme=dark" />
 </p>
 
 
