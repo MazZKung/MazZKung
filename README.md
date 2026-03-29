@@ -12,11 +12,51 @@ yodsark05@gmail.com
 
 ### Skills
 
-<p align="left">
-🧪 Testing & QA <br>
-  <img src="https://skillicons.dev/icons?i=selenium,postman,opencv&theme=dark" /> <br>
-💻 Programming <br>
-  <img src="https://skillicons.dev/icons?i=java,js,ts,python,c&theme=dark" />
+<h2>🧪 Software Tester | QA Automation Enthusiast</h2>
+
+<h3>🧪 Testing & QA</h3>
+<p>
+<img src="https://skillicons.dev/icons?i=selenium,postman,opencv&theme=dark" />
+</p>
+
+<h3>💻 Programming Languages</h3>
+<p>
+<img src="https://skillicons.dev/icons?i=java,js,ts,python,c&theme=dark" />
+</p>
+
+<h3>🌐 Web Development Knowledge</h3>
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,vue,nuxt,react,vite&theme=dark" />
+</p>
+
+<h3>⚙️ Backend / API Environment</h3>
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,npm,supabase&theme=dark" />
+</p>
+
+<h3>🗄️ Database</h3>
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,sqlite&theme=dark" />
+</p>
+
+<h3>🔧 DevOps / CI-CD</h3>
+<p>
+<img src="https://skillicons.dev/icons?i=docker,jenkins&theme=dark" />
+</p>
+
+<h3>🧰 Tools & Environment</h3>
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,ubuntu,windows,powershell,anaconda&theme=dark" />
+</p>
+
+<h3>🎨 UI / Collaboration</h3>
+<p>
+<img src="https://skillicons.dev/icons?i=figma&theme=dark" />
+</p>
+
+<h3>🎮 Additional Experience</h3>
+<p>
+<img src="https://skillicons.dev/icons?i=unity&theme=dark" />
 </p>
 
 
