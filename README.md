@@ -10,8 +10,6 @@ yodsark05@gmail.com
 
 ### Skills
 
-<h2>🧪 Software Tester | QA Automation Enthusiast</h2>
-
 <h3>🧪 Testing & QA</h3>
 <p>
 <img src="https://skillicons.dev/icons?i=selenium,postman,opencv&theme=dark" />
