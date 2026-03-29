@@ -13,8 +13,10 @@ yodsark05@gmail.com
 ### Skills
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=selenium,postman,opencv&theme=dark" />
-<img src="https://skillicons.dev/icons?i=java,js,ts,python,c&theme=dark" />
+🧪 Testing & QA <br>
+  <img src="https://skillicons.dev/icons?i=selenium,postman,opencv&theme=dark" /> <br>
+💻 Programming <br>
+  <img src="https://skillicons.dev/icons?i=java,js,ts,python,c&theme=dark" />
 </p>
 
 
