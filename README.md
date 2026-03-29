@@ -27,7 +27,7 @@ yodsark05@gmail.com
 
 <h3>⚙️ Backend / API Environment</h3>
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,npm,supabase&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,supabase&theme=dark" />
 </p>
 
 <h3>🗄️ Database</h3>
